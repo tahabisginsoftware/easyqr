@@ -1,7 +1,7 @@
 ![easyQR](https://github.com/tahabisginsoftware/easyqr/blob/master/assets/github%20cover.png "easyQR")
 
 easyQR.<br>
-Made with React Native.
+Made with React Native using Expo CLI.
 
 # Screenshots
 <img align="left" alt="qr1" src="https://github.com/tahabisginsoftware/easyqr/blob/master/assets/screen_one.png" width="300"/>
